@@ -1,0 +1,25 @@
+h1 {
+  font-size: 50px;
+  font-family: Times new roman;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  font-family: Times new roman;
+  text-align: justify;
+}
+
+.tiledBackground {
+  background-image: url(https://preview.ibb.co/gOr9v7/28081455_10160035297405578_56676362_o.jpg);
+  background-size: 150px;
+  background-position: center;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  color: pink;
+}
+
+.img-container {
+  text-align: center;
+}
